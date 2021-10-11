@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Cyber Security (Blue Team).
 - 🌱 I’m currently learning Penetration Testing, Azure, AWS, Python, Bash and Docker.
-- 📫 How to reach me: https://twitter.com/iamoshiro or https://www.linkedin.com/in/iamoshiro/
 - 😄 Pronouns: him/his
 
 <div align="center">
