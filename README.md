@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Cyber Security Engineer.
-- 🌱 I’m currently learning Penetration Testing, Azure, AWS, Python, Bash and Docker.
+- 🌱 I’m currently learning Penetration Testing, Azure, AWS, Python, Bash and Kubernetes.
 - 😄 Pronouns: him/his
 
 <div align="center">
