@@ -1,7 +1,7 @@
 ### Hello! I'm Ricardo Oshiro! 😀
 
 
-- 🔭 I’m currently working on Cyber Security (Blue Team).
+- 🔭 I’m currently working on Cyber Security Engineer.
 - 🌱 I’m currently learning Penetration Testing, Azure, AWS, Python, Bash and Docker.
 - 😄 Pronouns: him/his
 
