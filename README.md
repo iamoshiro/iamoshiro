@@ -2,8 +2,7 @@
 
 
 - 🔭 I’m currently working on Cyber Security Engineer.
-- 🌱 I’m currently learning Penetration Testing, AppSec, Azure, AWS, Python, Shell Script, Power Shell, Javascript and Kubernetes.
-- 😄 Pronouns: him/his
+- 🌱 I’m currently learning Penetration Testing and AppSec
 
 <div align="center">
   <a href="https://github.com/iamoshiro">
