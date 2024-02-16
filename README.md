@@ -1,7 +1,7 @@
 ### Hello! I'm Ricardo Oshiro! 😀
 
 
-- 🔭 I’m currently working on Cyber Security Engineer.
+- 🔭 I’m currently working on Cyber Security Specialist
 - 🌱 I’m currently learning Penetration Testing and AppSec
 
 <div align="center">
